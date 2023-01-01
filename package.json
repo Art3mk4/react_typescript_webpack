@@ -17,10 +17,10 @@
     "browser-sync": "^2.26.7",
     "browser-sync-webpack-plugin": "^2.2.2",
     "source-map-loader": "^1.0.0",
-    "ts-loader": "^7.0.5",
+    "ts-loader": "^9.4.2",
     "typescript": "^3.9.3",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
@@ -28,8 +28,8 @@
     "@babel/preset-env": "^7.10.2",
     "@babel/preset-react": "^7.10.1",
     "@types/webpack-env": "1.15.1",
-    "babel-loader": "^8.1.0",
-    "html-webpack-plugin": "^4.3.0",
+    "babel-loader": "^8.3.0",
+    "html-webpack-plugin": "^5.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
